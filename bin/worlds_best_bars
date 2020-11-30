@@ -1,0 +1,5 @@
+#!/usr/bin/env ruby
+
+require './lib/worlds_best_bars'
+
+WorldsBestBars::CLI.new.call
